@@ -14,7 +14,7 @@ Ensures a linear scale has numbers
 
 ```js
 var Decimal = require('linear-arbitrary-precision')(require('floating-adapter'));
-var scaleToDecimal = require('linear-scale-to-number')(Decimal);
+var scaleToDecimal = require('linear-scale-to-number');
 
 scaleToDecimal([new Decimal('32'), new Decimal('33.8')]);
 // => [32, 33.8]
