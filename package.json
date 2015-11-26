@@ -1,6 +1,6 @@
 {
   "name": "linear-scale-to-number",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Ensures a linear scale has numbers",
   "main": "src/index.js",
   "scripts": {
