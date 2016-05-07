@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/javiercejudo/linear-scale-to-number",
   "devDependencies": {
-    "core-arbitrary-precision": "^2.0.0",
+    "core-arbitrary-precision": "^3.0.0",
     "floating-adapter": "^1.2.1",
     "gulp": "^3.9.0",
     "gulp-coveralls": "^0.1.4",
